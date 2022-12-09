@@ -1,0 +1,30 @@
+
+header {
+    
+    background-color: #B66B55;
+    color: white;
+    height: 100px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header p {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+img {
+    padding: 0 57px;
+    height: 35.78px;
+    width: 33.82px;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
