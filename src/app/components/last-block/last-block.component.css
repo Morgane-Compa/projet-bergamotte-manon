@@ -1,0 +1,15 @@
+
+section {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    margin: 71px 50px;
+}
+
+.text {
+    padding: 0 80px 0 0px;
+}
