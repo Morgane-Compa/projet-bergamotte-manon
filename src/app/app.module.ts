@@ -12,6 +12,7 @@ import { FirstBlockComponent } from './components/first-block/first-block.compon
 import { GreenSectionComponent } from './components/green-section/green-section.component';
 import { ProductComponent } from './components/product/product.component';
 import { LastBlockComponent } from './components/last-block/last-block.component';
+import { VisitedProductComponent } from './components/visited-product/visited-product.component';
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { LastBlockComponent } from './components/last-block/last-block.component
     GreenSectionComponent,
     ProductComponent,
     LastBlockComponent,
+    VisitedProductComponent,
     
   ],
   imports: [
